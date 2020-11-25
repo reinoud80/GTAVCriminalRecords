@@ -19,7 +19,7 @@ F1::
 while(1)
 {
 fullrace()
-Sleep 15000
+Sleep 20000
 afterRace()
 }
 }
